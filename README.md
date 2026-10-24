@@ -19,7 +19,7 @@ Most focus timers ask you to fit the tool. Aether adapts the tool to you.
 - **Local progress insights** — seven-day rhythm chart, session history, current streak, energy patterns, and CSV export.
 - **Offline-ready PWA** — production builds install a service worker and can be launched as a standalone app.
 - **Private by architecture** — intentions and history never leave `localStorage`. There are no analytics or third-party requests.
-- **Thoughtful UX** — responsive layouts, accessible controls, keyboard shortcuts, and reduced-motion suport.
+- **Thoughtful UX** — responsive layouts, accessible controls, keyboard shortcuts, and reduced-motion support.
 
 ## Quick start
 
